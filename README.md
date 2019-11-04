@@ -22,7 +22,7 @@ install the folowing software to enhance the website or find suitable [alternati
 Download and install a free HTML Editor like [Brackets](http://brackets.io/) or [Atom](https://atom.io/)
 ## Install a free image editor 
 Download and install a free HTML Editor like [Brackets](http://brackets.io/) 
-## Install a free audio Editor
+## [ ] - Install a free audio Editor
 Download and install [Audacity®](https://www.audacityteam.org/) a free, open source (cross-platform) digital audio editor, recorder, and mixer.
 
 # Website Marketing and IOT integration
@@ -37,6 +37,8 @@ Download and install [Audacity®](https://www.audacityteam.org/) a free, open so
 # Design Examples
 
 # Best Practices
+[Frontend Checklist](https://frontendchecklist.io/)
+
 
 
 
