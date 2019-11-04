@@ -1,5 +1,5 @@
 # html_course by Charles Finney
-the purpose of this course is to go beyond the basic "Hello World" webcourse and cover all steps in creating an interactive webpage and how to drive traffic to it.
+the purpose of this course is to go beyond the basic "Hello World" webcourse and cover all steps in creating an interactive webpage with images and media, and examples of how to drive traffic to it.
 # Prerequisities 
 ## GitHub repo setup
 ### create Github account 
@@ -38,6 +38,14 @@ Download and install [Audacity®](https://www.audacityteam.org/) a free, open so
 
 # Best Practices
 [Frontend Checklist](https://frontendchecklist.io/)
+[HTML-reset](https://github.com/charlesfinney/HTML5-Reset)
+
+# Website Hosting
+setup a digitalOcean Droplet
+register a doman name at [ionos.com](https://www.ionos.com/domains/domain-names)
+[point domain name to digitalOcean droplet](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars 
+
+
 
 
 
