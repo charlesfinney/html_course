@@ -117,6 +117,9 @@ a secure remote access software for Windows for uploading files and direcotries 
 ## Flyer/ Poster/ artwork
 
 # Infostructure
+# Style Guide
+Competitive Examples 
+[Tor style guide](https://oniongit.eu/infra/styleguide)
 # HTML 
 ```
 <!DOCTYPE html>
