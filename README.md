@@ -30,9 +30,14 @@ Download and install [Audacity®](https://www.audacityteam.org/) a free, open so
 ## NFC 
 ## Flyer/ Poster/ artwork
 
-Infostructure
+# Infostructure
 
-Action Button and next step of interaction
+# Action Button and next step of interaction
+
+# Design Examples
+
+# Best Practices
+
 
 
 
