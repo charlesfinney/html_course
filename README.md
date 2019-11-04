@@ -54,10 +54,11 @@ a secure remote access software for Windows for uploading files and direcotries 
 # Action Button and next step of interaction
 
 # Design Examples
-
+[csszengarden.com](http://www.csszengarden.com/)
 # Best Practices
 [Frontend Checklist](https://frontendchecklist.io/)
 [HTML-reset](https://github.com/charlesfinney/HTML5-Reset)
+[HTML 5 Doctor](http://html5doctor.com/)
 
 # Website Hosting
 1. setup a digitalOcean Droplet
