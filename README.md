@@ -24,7 +24,7 @@ Download and install a free HTML Editor like [Brackets](http://brackets.io/) or 
 Download and install a free HTML Editor like [Brackets](http://brackets.io/) 
 ## [ ] - Install a free audio Editor
 Download and install [Audacity®](https://www.audacityteam.org/) a free, open source (cross-platform) digital audio editor, recorder, and mixer.
-
+## [ ] - Download & Install [Bitvise](https://www.bitvise.com/download-area)
 # Website Marketing and IOT integration
 ## QR code 
 ## NFC 
@@ -41,9 +41,9 @@ Download and install [Audacity®](https://www.audacityteam.org/) a free, open so
 [HTML-reset](https://github.com/charlesfinney/HTML5-Reset)
 
 # Website Hosting
-setup a digitalOcean Droplet
-register a doman name at [ionos.com](https://www.ionos.com/domains/domain-names)
-[point domain name to digitalOcean droplet](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars 
+1. setup a digitalOcean Droplet
+1. register a doman name at [ionos.com](https://www.ionos.com/domains/domain-names)
+[point domain name to digitalOcean droplet](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars) 
 
 
 
