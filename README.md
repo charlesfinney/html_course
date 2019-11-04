@@ -1,5 +1,6 @@
 # html_course by Charles Finney
 the purpose of this course is to go beyond the basic "Hello World" webcourse and cover all steps in creating an interactive webpage with images and media, and examples of how to drive traffic to it.
+# Index to steps 
 # Prerequisities 
 ## GitHub repo setup
 ### create Github account 
