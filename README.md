@@ -17,6 +17,73 @@ a directory/folder for <b>assets</b> used across the whole website. and a direct
   /images
   /media
 ```
+better
+Create a directory structure seperating site design from content and media.
+1. in the /assets folder are all files, documentation and images used in layout and navigation througout the site, in subfolders according to their type.
+1. further in the /content folder are all media, files and images that make up the content of the site, also in subfolders according to type.
+  
+```bash
+
+.
+├── /assets
+│   ├── /css
+│   │   ├── main-stylesheet.css
+│   │   └── normalize.css
+│   │
+│   ├── /doc/ = (documentation)
+│   │   ├── css.md
+│   │   ├── extend.md
+│   │   ├── faq.md
+│   │   ├── html.md
+│   │   ├── js.md
+│   │   ├── misc.md
+│   │   ├── TOC.md
+│   │   └── usage.md
+│   │
+│   ├── /font
+|   │   └── *.ttf
+│   │
+│   ├── /img
+│   │   ├── *.png  
+│   │   ├── *.jpg
+│   │   ├── *.svg
+│   │   └── .gitignore
+|   │   └── /soc
+|   │       └── *.svg
+│   │
+|   └── /js
+|       ├── main.js
+|       ├── plugins.js
+|       └── /vendor/
+|           ├── jquery.min.js
+│           └── modernizr.min.js
+├── /content
+│   ├── /audio
+|   │   └── *.aac
+│   │
+|   └── /images
+|   │       ├── /finney
+|   │       │   └── *.png 
+|   │       └── /tung
+|   │           └── *.png 
+│   ├── /pdf
+|   │   └── *.pdf
+│   │
+│   └── /video
+│       └── *.mp4
+│   
+├── .editorconfig
+├── .htaccess
+├── 404.html
+├── browserconfig.xml
+├── favicon.ico
+├── humans.txt
+├── icon.png
+├── index.html
+├── README.md
+└── .gitignore
+
+```
 install the folowing software to enhance the website or find suitable [alternatives](https://alternativeto.net/)
 ## Install a free HTML Editor
 Download and install a free HTML Editor like [Brackets](http://brackets.io/) or [Atom](https://atom.io/)
